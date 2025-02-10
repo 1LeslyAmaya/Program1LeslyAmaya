@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath> // Para usar sqrt()
 using namespace std;
-
+//prueba de commit
 // Función para calcular el factorial de un número
 long long factorial(int n) {
     long long resultado = 1;
@@ -92,7 +92,6 @@ int main() {
     } else {
         fibonacci(cantidad);
     }
-
     // Verificar si un número es primo
     int numero;
     bool esPrimo = true; // Suponemos que el número es primo inicialmente
